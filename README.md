@@ -12,3 +12,7 @@ someone once told me the following quote:
 <ins>this will be underlined<ins> 
 
 this will have a ~~strikethrough~~
+
+this is a map i made following an earlier video:
+
+![This is a datawrapper chart](zp2fO-median-income-by-county-in-california.png)

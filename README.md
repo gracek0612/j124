@@ -12,5 +12,3 @@ someone once told me the following quote:
 <ins>this will be underlined<ins> 
 
 this will have a ~~strikethrough~~
-
-![zp2fO-median-income-by-county-in-california](https://github.com/user-attachments/assets/55d3835c-7d96-44a9-bad9-4349c151cf7a)
